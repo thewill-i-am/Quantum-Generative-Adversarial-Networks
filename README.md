@@ -129,3 +129,6 @@ For any questions or suggestions, please contact [tu_email@example.com](mailto:t
    - *Experimental Quantum Generative Adversarial Networks for Image Generation.*
    - arXiv:2010.06201 (2020).
    - [Link](https://arxiv.org/abs/2010.06201)
+
+3. **Pennylane Quantum GAN Tutorial**
+   - [Link](https://pennylane.ai/qml/demos/tutorial_quantum_gans)
